@@ -60,5 +60,6 @@ h4 {
 }
 
 img {
+  box-sizing: border-box;
   border: 2px solid;
 }
