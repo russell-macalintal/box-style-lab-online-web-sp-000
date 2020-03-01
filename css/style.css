@@ -72,5 +72,9 @@ h4.amiable {
 }
 
 h4.indifferent {
-  background: linear-gradient(to right, , #000);
+  background: linear-gradient(to right, #dddd22, #000);
+}
+
+h4.dubious {
+  background: linear-gradient(to right, #dd4444, #000);
 }
